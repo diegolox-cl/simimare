@@ -1,4 +1,4 @@
-simimare
+Simimare
 ========
 
 Proyecto Simimare by Tree - DI
